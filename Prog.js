@@ -24,7 +24,7 @@ else
 ********************Switch Case**********************
 */
 
-let age=1
+let age=3
 
 switch(age){
 
